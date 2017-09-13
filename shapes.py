@@ -32,6 +32,6 @@ brad.speed(20)
 for i in range(1,37):
     draw_square(brad)
     brad.right(10)
-#draw_circle()
-#draw_triangle()
+draw_circle()
+draw_triangle()
 window.exitonclick()
